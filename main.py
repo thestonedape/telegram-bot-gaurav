@@ -6,8 +6,6 @@ KEY = "API_KEY"
 
 
 
-
-
 print("The RSCOE AR Bot has now been started...")
 
 def start_command(update, context):
