@@ -2,7 +2,9 @@
 from telegram.ext import *
 import Responses as R 
 
-KEY = "APIKEY"
+KEY = bot('APIKEY')
+
+
 
 
 
