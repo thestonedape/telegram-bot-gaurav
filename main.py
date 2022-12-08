@@ -1,6 +1,12 @@
-import Constants as keys
+
 from telegram.ext import *
 import Responses as R 
+
+KEY = "API_KEY"
+
+
+
+
 
 print("The RSCOE AR Bot has now been started...")
 
